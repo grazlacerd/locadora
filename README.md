@@ -1,16 +1,21 @@
-# React + Vite
+# 🎬 Lojinha de Filmes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma aplicação web simples e elegante para aluguel de filmes, feita com **React**. O projeto permite navegar por um catálogo de títulos, buscar filmes, ver detalhes em um modal e adicionar itens ao carrinho.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 O que a aplicação faz
 
-## React Compiler
+* **Catálogo de Filmes:** Lista de filmes organizada em cartões.
+* **Busca:** Campo para pesquisar filmes por nome.
+* **Modal de Detalhes:** Clique no filme para ler a sinopse e ver mais detalhes.
+* **Carrinho:** Painel lateral para ver os filmes selecionados e finalizar o aluguel.
+* **Responsivo:** Funciona bem no celular, tablet e computador.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React** (Componentes, Estados e Hooks)
+* **CSS3** (Flexbox, Grid e Animações)
+* **HTML5**
