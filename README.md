@@ -1,4 +1,4 @@
-# 🎬 Lojinha de Filmes
+# 🎬 Locadora de filmes do Studio Ghibli
 
 Uma aplicação web simples e elegante para aluguel de filmes, feita com **React**. O projeto permite navegar por um catálogo de títulos, buscar filmes, ver detalhes em um modal e adicionar itens ao carrinho.
 
